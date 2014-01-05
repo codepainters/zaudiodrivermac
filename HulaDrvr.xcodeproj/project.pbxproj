@@ -426,6 +426,9 @@
 /* Begin PBXProject section */
 		089C1669FE841209C02AAC07 /* Project object */ = {
 			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0500;
+			};
 			buildConfigurationList = 1DEB911E08733D790010E9CD /* Build configuration list for PBXProject "HulaDrvr" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
@@ -680,6 +683,7 @@
 				LIBRARY_SEARCH_PATHS = "$(LIBRARY_SEARCH_PATHS)";
 				PREBINDING = NO;
 				PRODUCT_NAME = EMUMIDIDriver;
+				SDKROOT = macosx10.9;
 				WRAPPER_EXTENSION = plugin;
 				ZERO_LINK = NO;
 			};
@@ -810,6 +814,7 @@
 				LIBRARY_SEARCH_PATHS = "$(LIBRARY_SEARCH_PATHS)";
 				PREBINDING = NO;
 				PRODUCT_NAME = EMUMIDIDriver;
+				SDKROOT = macosx10.9;
 				WRAPPER_EXTENSION = plugin;
 				ZERO_LINK = NO;
 			};
@@ -828,6 +833,7 @@
 				LIBRARY_SEARCH_PATHS = "$(LIBRARY_SEARCH_PATHS)";
 				PREBINDING = NO;
 				PRODUCT_NAME = EMUMIDIDriver;
+				SDKROOT = macosx10.9;
 				WRAPPER_EXTENSION = plugin;
 				ZERO_LINK = NO;
 			};
@@ -1085,6 +1091,7 @@
 				LIBRARY_SEARCH_PATHS = "$(LIBRARY_SEARCH_PATHS)";
 				PREBINDING = NO;
 				PRODUCT_NAME = EMUMIDIDriver;
+				SDKROOT = macosx10.9;
 				WRAPPER_EXTENSION = plugin;
 				ZERO_LINK = NO;
 			};
