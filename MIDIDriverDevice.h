@@ -43,7 +43,7 @@
 #ifndef __MIDIDriverDevice_h__
 #define __MIDIDriverDevice_h__
 
-#include <CoreMIDIServer/CoreMIDIServer.h>
+#include <CoreMIDI/MIDIDriver.h>
 #include <vector>
 #include "MIDIDriverUtils.h"
 
